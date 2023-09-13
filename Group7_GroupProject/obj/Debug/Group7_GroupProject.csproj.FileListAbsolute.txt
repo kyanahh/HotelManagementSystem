@@ -1,0 +1,29 @@
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.exe.config
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.exe
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.pdb
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.AssemblyReference.cache
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.Form1.resources
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.Properties.Resources.resources
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.GenerateResource.cache
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.exe
+C:\Users\malab\source\repos\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.pdb
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.exe.config
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.exe
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\bin\Debug\Group7_GroupProject.pdb
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.AssemblyReference.cache
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.Properties.Resources.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.GenerateResource.cache
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.CoreCompileInputs.cache
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.exe
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.pdb
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\bin\Debug\MySql.Data.dll
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.AdminDashboard.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.Login.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.UserDashboard.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.csproj.CopyComplete
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.UserProfile.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.UserControls.ucRoom.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.UserControls.ucProfile.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.RoomDashboard.resources
+D:\Kianna\Programming\EDP\Group 7\Group7_GroupProject\Group7_GroupProject\obj\Debug\Group7_GroupProject.UserControls.Feedback.resources
